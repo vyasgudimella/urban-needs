@@ -1,54 +1,54 @@
 {
   "plumbing": [
     {
-      "name": "abc",
-      "phoneno": "098765432",
+      "name": "amritha",
+      "phoneno": "9081234567",
       "address": "Visakhapatnam"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
+      "name": "deepthi",
+      "phoneno": "8312456789",
+      "address": "kakinada"
+    },
+    {
+      "name": "ajay",
+      "phoneno": "8901256734",
+      "address": "Srikakulam"
+    },
+    {
+      "name": "janavi",
+      "phoneno": "9087123564",
+      "address": "Vizianagaram"
+    },
+    {
+      "name": "uday",
+      "phoneno": "7812345609",
+      "address": "Rajahmundry"
+    },
+    {
+      "name": "Adhi",
+      "phoneno": "7689012345",
+      "address": "Hyderabad"
+    },
+    {
+      "name": "Gayatri",
+      "phoneno": "8890766541",
+      "address": "Warangal"
+    },
+    {
+      "name": "Jitendra",
+      "phoneno": "9081276534",
       "address": "Visakhapatnam"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "chintu",
+      "phoneno": "7659801254",
+      "address": "Tirupati"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "Rama",
+      "phoneno": "9018754334",
+      "address": "Vizianagaram"
     }
   ],
   "cleaning and sanitizing": [
