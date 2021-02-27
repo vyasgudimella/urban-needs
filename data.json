@@ -1,54 +1,54 @@
 {
   "plumbing": [
     {
-      "name": "abc",
-      "phoneno": "098765432",
+      "name": "vyas",
+      "phoneno": "7993666978",
       "address": "Visakhapatnam"
     },
     {
-      "name": "kar",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "phani",
+      "phoneno": "8716142442",
+      "address": "westgodavari"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "shamita",
+      "phoneno": "8716142442",
+      "address": "mumbai"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "pratyusha",
+      "phoneno": "898765432",
+      "address": "patna"
     },
     {
-      "name": "abc",
+      "name": "charan",
       "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "address": "srikakulam"
     },
     {
-      "name": "abc",
+      "name": "tarun",
       "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "address": "eastgodavari"
     },
     {
-      "name": "abc",
+      "name": "rohit",
       "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "address": "nagpur"
     },
     {
-      "name": "abc",
+      "name": "dhoni",
       "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "address": "ranchi"
     },
     {
-      "name": "abc",
+      "name": "kohli",
       "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "address": "delhi"
     },
     {
-      "name": "abc",
+      "name": "ishan",
       "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "address": "kanpur"
     }
   ],
   "cleaning and sanitizing": [
