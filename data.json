@@ -1,54 +1,54 @@
 {
   "plumbing": [
     {
-      "name": "vyas",
-      "phoneno": "7993666978",
+      "name": "abc",
+      "phoneno": "098765432",
       "address": "Visakhapatnam"
     },
     {
-      "name": "phani",
-      "phoneno": "8716142442",
-      "address": "westgodavari"
-    },
-    {
-      "name": "shamita",
-      "phoneno": "8716142442",
-      "address": "mumbai"
-    },
-    {
-      "name": "pratyusha",
-      "phoneno": "898765432",
-      "address": "patna"
-    },
-    {
-      "name": "charan",
+      "name": "kar",
       "phoneno": "098765432",
-      "address": "srikakulam"
+      "address": "Visakhapatnam"
     },
     {
-      "name": "tarun",
+      "name": "abc",
       "phoneno": "098765432",
-      "address": "eastgodavari"
+      "address": "Visakhapatnam"
     },
     {
-      "name": "rohit",
+      "name": "abc",
       "phoneno": "098765432",
-      "address": "nagpur"
+      "address": "Visakhapatnam"
     },
     {
-      "name": "dhoni",
+      "name": "abc",
       "phoneno": "098765432",
-      "address": "ranchi"
+      "address": "Visakhapatnam"
     },
     {
-      "name": "kohli",
+      "name": "abc",
       "phoneno": "098765432",
-      "address": "delhi"
+      "address": "Visakhapatnam"
     },
     {
-      "name": "ishan",
+      "name": "abc",
       "phoneno": "098765432",
-      "address": "kanpur"
+      "address": "Visakhapatnam"
+    },
+    {
+      "name": "abc",
+      "phoneno": "098765432",
+      "address": "Visakhapatnam"
+    },
+    {
+      "name": "abc",
+      "phoneno": "098765432",
+      "address": "Visakhapatnam"
+    },
+    {
+      "name": "abc",
+      "phoneno": "098765432",
+      "address": "Visakhapatnam"
     }
   ],
   "cleaning and sanitizing": [
@@ -261,53 +261,53 @@
   ],
   "construction": [
     {
-      "name": "abc",
-      "phoneno": "098765432",
+      "name": "sruji",
+      "phoneno": "9876543210",
+      "address": "Vishakhapatnam"
+    },
+    {
+      "name": "sanju",
+      "phoneno": "7654321890",
+      "address": "Srikakulam"
+    },
+    {
+      "name": "sampath",
+      "phoneno": "876542310",
+      "address": "Vizianagaram"
+    },
+    {
+      "name": "vyas",
+      "phoneno": "8765432190",
       "address": "Visakhapatnam"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
+      "name": "phani",
+      "phoneno": "9987654321",
       "address": "Visakhapatnam"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "janu",
+      "phoneno": "9087612345",
+      "address": "miryalaguda"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "lavanya",
+      "phoneno": "9812387642",
+      "address": "Rajahmundry"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "Navya",
+      "phoneno": "9087654321",
+      "address": "kakinada"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
+      "name": "Rupali",
+      "phoneno": "9876056123",
+      "address": "visakhapatnam"
     },
     {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
-      "address": "Visakhapatnam"
-    },
-    {
-      "name": "abc",
-      "phoneno": "098765432",
+      "name": "komali",
+      "phoneno": "9807612345",
       "address": "Visakhapatnam"
     }
   ]
